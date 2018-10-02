@@ -1,0 +1,1 @@
+{"title":"Array","message":"var array = ['andy',4,'watever I want'];\n// var name = 'andy';\nvar number = 4;\nvar string = 'another string'\n\nArrays start from 0 so andy is 0, 4 is 1, watever i want is 2.\nSo if i console.log(array.length- 1)\nIll get 4.","id":"780fdede-1f61-478b-b25e-0112fe505cb6","date":"2018-10-02T18:45:40.747Z"}
